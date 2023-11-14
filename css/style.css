@@ -165,11 +165,19 @@ body {
     margin-right: 30px;
 }
 
-.blog-preview {
-    flex-direction: column;
-    align-items: flex-start;
-}
 
-articles-list-img {
+/* THIS HUETA*/
+/*.blog-preview {*/
+/*    flex-direction: column;*/
+/*    align-items: flex-start;*/
+/*}*/
+
+.articles-list-img {
     object-fit: cover;
 }
+
+.blog-preview-text {
+    padding: 30px;
+}
+
+
